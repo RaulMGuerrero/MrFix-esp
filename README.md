@@ -21,7 +21,7 @@ _Ejecuta MrFix.bat pulsando el botón derecho > 🛡️ Ejecutar como administra
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
 
 -
 
