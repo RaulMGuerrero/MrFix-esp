@@ -74,7 +74,7 @@ echo.
 echo                        ============Opcon Invalida=============
 echo                        ---------------------------------------
 echo                        Seleccione la opcion correcta:
-echo                        Menu [1-9] o seleccione '0' para salir.
+echo                        Menu [1-9] o seleccione 'Q' para salir.
 echo                        ---------------------------------------
 echo                        ====Pulse cualquier para continuar======
 
