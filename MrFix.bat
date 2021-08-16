@@ -38,12 +38,12 @@ echo           [..       [..[........[..      [..  [.....
 echo.                                       
 echo #####################################################################
 echo ^| 1    Copiar DOCUMENTOS, DESCARGAS, IMAGENES, ESCRITORIO Y VIDEOS  ^|
-echo ^| 2    Restaurar DOCUMENTOS, DESCARGAS, IMAGENES, ESCRITORIO Y VIDEOS ^|
+echo ^| 2    Restaurar DOCUMENTOS, DESCARGAS, IMAGENES, ESCRITORIO Y VIDEOS^|
 echo ^| 3    Escanear y recuperar sectores def. ^del disco duro (NO SSD)   ^|
 echo ^| 4    Descargar programas libres                                   ^|
 echo ^| 5    Buscar errores de eficiencia energetica                      ^|
 echo ^| 6    Reparar archivos de Windows                                  ^|
-echo ^| 7    Liberar espacio en disco/s                                   ^|
+echo ^| 7    Liberar espacio en disco/s                                  ^|
 echo ^| 8    Hacer copia de los drivers/controladores                      ^|
 echo ^| 9    ^Ver Licencia de Windows                                      ^|
 echo ^| Q    Salir                                                        ^|
