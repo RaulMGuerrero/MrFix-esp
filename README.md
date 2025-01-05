@@ -9,7 +9,7 @@ _Para poder usar la herramienta solo tendrás que descargar el archivo en tu má
 
 ### Pre-requisitos 📋
 
-_Para ejecutar la herramientas necesitas ser administrador de la máquina o poder acceder como permisos de administrador._
+_Para ejecutar la herramientas necesitas ser administrador de la máquina o poder acceder con permisos de administrador._
 
 
 ### Ejecución 🔧
